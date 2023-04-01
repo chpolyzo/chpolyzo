@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chpolyzo
 - 👀 I’m interested in innovation and development
-- 🌱 I’m currently learning advanced python and Object Oriented Programing
+- 🌱 I’m currently learning advanced python C++ and Object Oriented Programing
 - 💞️ I’m looking to collaborate on innovative projects 
 - 📫 How to reach me [e-mail](chpolyzo@gmail.com), [Twitter](twitter.com/chpolyzo), [Medium](chpolyzo.medium.com/)
 
